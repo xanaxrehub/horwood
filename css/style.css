@@ -1,0 +1,82 @@
+body {
+   background-color: #c9d1c8;
+}
+
+.navbar{
+    background-color: #5B7065;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.rec {
+    width: 400px;
+    height: 400px;
+    background-color: #5B7065;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.2);;
+    transition: 0.8s;
+}
+
+.rec:hover {
+    transition: 0.8s;
+    box-shadow: none;
+}
+
+.rec-photo {
+    padding-bottom: 50px;
+
+}
+
+.rec2-photo {
+    padding-bottom: 65px;
+
+}
+
+.rec3-photo {
+    padding-bottom: 60px;
+}
+
+/*History stranka*/
+.centered {
+    color:floralwhite;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    text-transform: uppercase;
+}
+
+#image {
+    position: relative;
+    text-align: center;
+}
+
+.stat {
+    width: 200px;
+    height: 200px;
+    background-color: #04202C;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.2);;
+    transition: 0.8s;
+}
+
+.stat:hover {
+    transition: 0.8s;
+    box-shadow: none;
+}
+
+.fakts1 {
+    background-color: #5B7065;
+}
+
+.zaujm {
+    align-items: center;
+}
+
+#hov:hover {
+    background-color: #04202C;
+    transition: 0.5s;
+    border-radius: 20px;
+  }
+
+#hov {
+    transition: 0.5s;
+}
