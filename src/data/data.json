@@ -1,0 +1,189 @@
+{
+  "accordion_items": [
+    {
+      "id": "flush-collapseOne",
+      "databstarget":"#flush-collapseOne",
+      "otazka": "Kde sa nachádza Ukrajina?",
+      "odpoved": "Stredná a Východná Európa, juhovýchodná časť Východoeurópskej nížiny, medzi 44”20′ a 52”20′ severnej zemepisnej šírky a 22”5′ a 41”15′ východnej zemepisnej dĺžky."
+    },
+    {
+      "id": "flush-collapseTwo",
+      "databstarget":"#flush-collapseTwo",
+      "otazka": "Aké je najznámejšie ukrajinské jedlo?",
+      "odpoved": "Boršč (polievka z červenej repy) je najznámejšie ukrajinské jedlo. Každá ukrajinská rodina má svoj vlastný recept na boršč."
+    },
+    {
+      "id": "flush-collapseThree",
+      "databstarget":"#flush-collapseThree",
+      "otazka": "Čo je jednou z najrozmanitejších a najinovatívnejších oblastí ukrajinskej kultúry?",
+      "odpoved": "Jednou z najrozmanitejších a najinovatívnejších oblastí ukrajinskej kultúry je hudobný priemysel."
+    }
+  ],
+  "accordion_items2": [
+    {
+      "id": "flush-collapseOne",
+      "databstarget":"#flush-collapseOne",
+      "otazka": "Aká je najhlbšia stanica metra na svete?",
+      "odpoved": "Stanica \"Arsenalna\" kyjevského metra (linka Svyatoshinsko-Brovarska) je dnes najhlbšou stanicou metra na svete. Jeho hĺbka je 105,5 m."
+    },
+    {
+      "id": "flush-collapseTwo",
+      "databstarget":"#flush-collapseTwo",
+      "otazka": "Aká je celková rozloha Ukrajiny?",
+      "odpoved": "Ukrajina je rozlohou najväčšia krajina v Európe. Celková plocha Ukrajiny je 603,55 metrov štvorcových. km"
+    },
+    {
+      "id": "flush-collapseThree",
+      "databstarget":"#flush-collapseThree",
+      "otazka": "Ako sa volá najvyššia hora Ukrajiny?",
+      "odpoved": "Mount Hoverla je najvyššia hora Ukrajiny. Jeho výška je 2061 m. Hora Hoverla je súčasťou pohoria Karpaty."
+    }
+  ],
+  "rows": [
+    {
+      "left": "Poloha",
+      "right": "Stredná a Východná Európa, juhovýchodná časť Východoeurópskej nížiny, medzi 44”20′ a 52”20′ severnej zemepisnej šírky a 22”5′ a 41”15′ východnej zemepisnej dĺžky."
+    },
+    {
+      "left": "Rozloha",
+      "right": "603 700 km2"
+    },
+    {
+      "left": "Podnebie",
+      "right": "Prevažne mierne kontinentálne."
+    },
+    {
+      "left": "Priemerná zimná teplota",
+      "right": "Od -8° do -12° C (od +17,6° F do +3° F). V južných oblastiach sa zimná teplota pohybuje okolo 0°C (+32°F)."
+    },
+    {
+      "left": "Priemerná letná teplota",
+      "right": "Od + 18 ° C do + 25 ° C (od + 64,4 ° F do + 77 ° F), hoci maximálna teplota môže byť nad + 35 ° C (+ 95 ° F)."
+    },
+    {
+      "left": "Najlepší čas na návštevu Ukrajiny",
+      "right": "leto, neskorá jar a začiatok jesene."
+    },
+    {
+      "left": "Hlavná internetová doména",
+      "right": "ua"
+    },
+    {
+      "left": "Medzinárodná telefónna predvoľba",
+      "right": "+380"
+    }
+  ],
+  "fakts": [
+    {
+      "image": "/src/assets/images/ukraine.png",
+      "maintext": "Úradný jazyk:",
+      "text": "Ukrajinčina"
+    },
+    {
+      "image": "/src/assets/images/home.png",
+      "maintext": "Kapitál:",
+      "text": "Kyjev"
+    },
+    {
+      "image": "/src/assets/images/goal.png",
+      "maintext": "Získanie nezávislosti:",
+      "text": "24 augusta 1991"
+    },
+    {
+      "image": "/src/assets/images/people.png",
+      "maintext": "Ľudí:",
+      "text": "47 732 079"
+    },
+    {
+      "image": "/src/assets/images/value.png",
+      "maintext": "Mena:",
+      "text": "Hrivna (UAH)"
+    },
+    {
+      "image": "/src/assets/images/time.png",
+      "maintext": "Časové pásmo:",
+      "text": "GMT+2 (UTC+2)"
+    }
+  ],
+  "cards": [
+    {
+      "image": "/src/assets/images/moznost.png",
+      "text": "Naša stránka vám dáva možnosť dozvedieť sa niečo nové o krajinách, pozrieť sa na ich pamiatky bez toho, aby ste opustili prehliadač"
+    },
+    {
+      "image": "/src/assets/images/kompaktnost.png",
+      "text": "Používaním našej stránky ušetríte veľa času a nebudete musieť hľadať všetky informácie na internete"
+    },
+    {
+      "image": "/src/assets/images/idea.png",
+      "text": "Zozbierali sme tie najzaujímavejšie informácie a krásne fotografie, ani si nevšimnete, ako rýchlo ubehol čas"
+    }
+  ],
+  "zaujimavosti": [
+    {
+      "image":"/src/assets/images/zaujmukr1.jpg",
+      "cislo":"/src/assets/images/zaujm1.png" ,
+      "text": "Ukrajina je rozlohou najväčšia krajina v Európe. Celková plocha Ukrajiny je 603,55 metrov štvorcových. km\n          Stanica \"Arsenalna\" kyjevského metra (linka Svyatoshinsko-Brovarska) je dnes najhlbšou stanicou metra na svete. Jeho hĺbka je 105,5 m. Na stanicu budete musieť jazdiť dlhých päť minút eskalátorom.\n          Ukrajina je jednou z najvzdelanejších krajín na svete. Krajina je na 4. mieste na svete podľa počtu najvzdelanejších obyvateľov. 99,4 % Ukrajincov vo veku 15 a viac rokov vie čítať a písať. 70 % dospelých Ukrajincov má stredoškolské alebo vysokoškolské vzdelanie. Dokonca aj známi šampióni ťažkej váhy Vitalij a Volodymyr majú doktoráty."
+    },
+    {
+      "image":"/src/assets/images/rostislav-artov-Gx5RF9rXVkE-unsplash.jpg" ,
+      "cislo":"/src/assets/images/zaujm2.png" ,
+      "text": "McDonald's v Kyjeve je jednou z najnavštevovanejších reštaurácií McDonald's na svete. Pobočka na námestí Vokzalnaja v Kyjeve je na 3. mieste medzi najnavštevovanejšími reštauráciami McDonald's na svete. Reštaurácia sa nachádza hneď vedľa železničnej stanice.\n          Mount Hoverla je najvyššia hora Ukrajiny. Jeho výška je 2061 m. Hora Hoverla je súčasťou pohoria Karpaty. Od konca 19. storočia je táto hora veľkou turistickou atrakciou.\n          Najdlhším dychovým nástrojom na svete je ukrajinská trembita. Je zapísaná v Guinessovej knihe rekordov. Trembita je drevená fajka, ktorej dĺžka sa pohybuje od 2,5 do 8 metrov a priemer je asi 30 mm."
+    },
+    {
+      "image":"/src/assets/images/eugene-a6jaMBfDeoo-unsplash.jpg" ,
+      "cislo":"/src/assets/images/3.png",
+      "text":"Geografický stred Európy sa nachádza v Zakarpatskej oblasti, neďaleko obce Dilove. Je to jedno z piatich všeobecne uznávaných centier kontinentu, nie však jediné, keďže spôsob výpočtu súradníc závisí od vášho prístupu (ďalšie sú v Litve, Bielorusku, Slovensku a Poľsku).\n          Rekordný počet ľudí na koncerte. Paul Rogers, spevák skupiny Queen, tu v roku 2008 odohral benefičný koncert, ktorý vytvoril rekord v návštevnosti v histórii kapely. Charkovské námestie slobody je najväčším námestím v Európe a údajne sa na ňom zišlo viac ako 300 000 ľudí.\n          Jedným z populárnych faktov histórie Ukrajiny je história jej obyvateľov. Artefakty tryplianskej kultúry svedčia o tom, že ľudia žili na území modernej Ukrajiny už v piatom storočí pred Kristom."
+    }
+  ],
+  "products": [
+    {
+      "name":"Tradičná vyšívaná košeľa",
+      "description": "Košeľa s tradičnými ukrajinskými vzormi.",
+      "price": 10,
+      "image": "/src/assets/images/kosela.jpg"
+    },
+    {
+      "name":"Ukrajinská matrioška",
+      "description": "Ručne vyrobená matrioška.",
+      "price": 5,
+      "image": "/src/assets/images/matrioska.jpg"
+    },
+    {
+      "name":"Petrykivský maľba",
+      "description": "Slávna ukrajinská maľba na keramike.",
+      "price": 6,
+      "image": "/src/assets/images/malba.jpg"
+    },
+    {
+      "name":"Hlinený hrniec",
+      "description": "Tradičný ukrajinský hlinený hrniec.",
+      "price": 3,
+      "image": "/src/assets/images/hrniec.jpg"
+    },
+    {
+      "name":"Ručne tkaný koberec",
+      "description": "Tradičný ukrajinský tkaný koberec",
+      "price": 12,
+      "image": "/src/assets/images/koberec.jpg"
+    },
+    {
+      "name":"Ľanová tkanina",
+      "description": "Tkanina používaná na tradičné výrobky.",
+      "price": 2,
+      "image": "/src/assets/images/tkanina.jpg"
+    },
+    {
+      "name":"Obraz s krajinami",
+      "description": "Obraz zobrazuje tradičné krajiny.",
+      "price": 16,
+      "image": "/src/assets/images/obraz.jpg"
+    },
+    {
+      "name":"Ukrajinská keramika",
+      "description": "Ručne vyrábaná keramika.",
+      "price": 5,
+      "image": "/src/assets/images/plate.jpg"
+    }
+  ]
+}
